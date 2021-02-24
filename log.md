@@ -46,3 +46,18 @@
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+
+### Day 2: February 25, 2021
+
+**Today's Progress**: 
+* Could not find module in path: 'ol/format/GeoJSON'
+  * This is because after version 5 in OpenLayers the programming language changed to Typescript and we are using version 4.6.5 (https://stackoverflow.com/a/51110511)
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+
+
+
+
