@@ -31,12 +31,13 @@
 ### Day 1: February 24, 2021
 
 **Today's Progress**: 
-*. Fixed Proxy setting for NPM
-  *. npm config set proxy http://proxy.company.com:8080
-  *. npm config set https-proxy http://proxy.company.com:8080
-  *. npm set strict-ssl=false
-*. nvm dial tcp i/o error
-  *. 
+* Fixed Proxy error setting for NPM (https://docs.npmjs.com/cli/v7/commands/npm-config)
+  * Run command in the following order
+  * ```npm config set proxy http://proxy.company.com:8080```
+  * ```npm config set https-proxy http://proxy.company.com:8080```
+  * ```npm set strict-ssl=false```
+* nvm dial tcp i/o error
+  * Run command ```nvm proxy http://example.com:8080```
 
 
 **Thoughts**: 
