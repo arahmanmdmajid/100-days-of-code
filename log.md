@@ -38,7 +38,10 @@
   * ```npm set strict-ssl=false```
 * nvm dial tcp i/o error
   * Run command ```nvm proxy http://example.com:8080```
-
+* Github Markups 
+  * (https://guides.github.com/features/mastering-markdown/)
+* 100 Days Code Guide  
+  * (https://www.geeksforgeeks.org/100-days-of-code-a-complete-guide-for-beginners-and-experienced/)
 
 **Thoughts**: 
 
