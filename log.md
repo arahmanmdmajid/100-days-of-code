@@ -57,3 +57,25 @@
 **Thoughts**: 
 
 **Link(s) to work**: 
+
+### Sick for 4 days :(
+
+### Day 3: March 2, 2021
+
+**Today's Progress**: 
+* Active Directory domain Service setup
+  * Installed Windows Server 2012 R2 in Virtual Box
+  * Activated Active Directory domain Service from Server Manager 
+* Learning:
+  * Started Active Directory administration Course for clear understanding - Windows Server 2012 R2 (70-410) Administer Active Directory
+
+**Next Follow Up Task and Thoughts**:
+* Next task will be to set up users and computers
+* Connect to the AD from remote
+* Authenticate users from remote
+* Sync user inform from remote
+
+
+**Link(s) to work**:
+* Followed this guide for AD DS setup (https://www.hbuilt.com/wp-content/uploads/2016/07/Active-Directory-Installation-on-Windows-Server-2012.pdf)
+  * 
